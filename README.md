@@ -9,7 +9,7 @@
 
 ## MBProgressHUD 1.1.0，DACircularProgress 2.3.1，SDWebImage 4.3.3:
 
-```pod "MWPhotoBrowser", :podspec =>'https://raw.githubusercontent.com/moinku07/MWPhotoBrowser/master/MWPhotoBrowser.podspec'```
+```pod "MWPhotoBrowser", :podspec =>'https://raw.githubusercontent.com/wjacker/MWPhotoBrowser/master/MWPhotoBrowser.podspec'```
 
 ## A simple iOS photo and video browser with optional grid view, captions and selections.
 

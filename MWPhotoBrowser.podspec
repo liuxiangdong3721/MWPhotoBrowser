@@ -24,8 +24,8 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/mwaterfall'
 
   s.source = {
-    :git => 'https://github.com/moinku07/MWPhotoBrowser',
-    :tag => '2.1.4'
+    :git => 'https://github.com/wjacker/MWPhotoBrowser',
+    :tag => '2.1.6'
   }
   s.platform = :ios, '7.0'
   s.source_files = 'Pod/Classes/**/*'
